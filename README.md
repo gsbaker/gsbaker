@@ -1,4 +1,6 @@
-### Bonjour 👋🏼
+## Bonjour 👋🏼
+
+computer science student, software engineer, photographer, music fan, writer, perfectionist.
 
 <!--
 **gsbaker/gsbaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +20,4 @@ Here are some ideas to get you started:
 - 🌎 [www.gsbaker.uk](https://www.gsbaker.uk)
 - 🤩 Favourite language: Python
 - 🌱 Currently learning: SwiftUI
-- 📫 How to reach me: Email: [george@gsbaker.uk](george@gsbaker.uk), Twitter: [@gsbaker_](https://www.twitter.com/gsbaker_)
+- 📫 [george@gsbaker.uk](george@gsbaker.uk)
