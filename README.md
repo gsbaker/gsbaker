@@ -1,6 +1,11 @@
-## Bonjour 👋🏼
+Software Engineer at FreeAgent.
 
-computer science student, software engineer, photographer, music fan, writer, perfectionist.
+- 🔭 I’m currently working on *updating my website*.
+- 🌱 I’m currently learning *Ruby on Rails.
+- 👯 I’m looking to collaborate on *anything that peaks my interest*.
+- 💬 Ask me about *conformity in online behaviour*.
+- 📫 How to reach me: *george@gsbaker.uk (public email).* 
+- ⚡ Fun fact: *Outside of programming, I love photography!*
 
 <!--
 **gsbaker/gsbaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🌎 [www.gsbaker.uk](https://www.gsbaker.uk)
-- 🤩 Favourite language: Python
-- 🌱 Currently learning: SwiftUI
-- 📫 [george@gsbaker.uk](george@gsbaker.uk)
