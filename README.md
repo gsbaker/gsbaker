@@ -1,7 +1,7 @@
 Software Engineer at FreeAgent.
 
 - 🔭 I’m currently working on *updating my website*.
-- 🌱 I’m currently learning *Ruby on Rails.
+- 🌱 I’m currently learning *Ruby on Rails*.
 - 👯 I’m looking to collaborate on *anything that peaks my interest*.
 - 💬 Ask me about *conformity in online behaviour*.
 - 📫 How to reach me: *george@gsbaker.uk (public email).* 
